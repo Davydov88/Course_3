@@ -1,4 +1,4 @@
-from .main import GenresDAO
+from .genre import GenresDAO
 
 __all__ = [
     'GenresDAO',

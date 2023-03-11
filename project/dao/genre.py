@@ -4,3 +4,4 @@ from project.models import Genre
 
 class GenresDAO(BaseDAO[Genre]):
     __model__ = Genre
+
